@@ -2,7 +2,7 @@ version: "2"
 
 services:
   lascar:
-    image: index.docker.io/smartdataanalytics/lascar-site:develop
+    image: index.docker.io/smartdataanalytics/lascar-site:latest
     container_name: lascar
     restart: unless-stopped
     environment:
