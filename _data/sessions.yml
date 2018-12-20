@@ -1,0 +1,50 @@
+-
+  id: 307
+  title: "Coffee Break"
+  place: "Hall"
+  service: true
+  description: "The best time to talk with speakers and attendees"
+-
+  id: 503
+  title: "Lunch Break"
+  place: "Dining room"
+  service: true
+-
+  id: 001
+  title: "Welcome + Keynote Speech "
+  description: "Welcome + Keynote Speech"
+  subtype: keynote
+  speakers: [1]
+  language: en
+-
+  id: 002
+  title: "Paper/Poster presentations"
+  description: "Paper/Poster presentations"
+  subtype: presentation
+  speakers: [1]
+  language: en
+  presentation: ""
+-
+  id: 003
+  title: "Paper/Poster presentations"
+  description: "Paper/Poster presentations"
+  subtype: presentation
+  speakers: [1]
+  language: en
+  presentation: ""
+-
+  id: 004
+  title: "Paper/Poster presentations"
+  description: "Paper/Poster presentations"
+  subtype: presentation
+  speakers: [1]
+  language: en
+  presentation: ""
+-
+  id: 005
+  title: "Wrap-up + Panel discussion"
+  description: "Wrap-up + Panel discussion (Organisers + Invited members)"
+  subtype: presentation
+  speakers: [1]
+  language: en
+  presentation: ""

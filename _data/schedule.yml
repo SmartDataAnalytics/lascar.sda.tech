@@ -1,0 +1,31 @@
+- 
+  date: "2019-06-03"
+  dateReadable: "June 3"
+  tracks: 
+    - {title: "Workshop Day", color: "#90be4e"}
+  timeslots:
+    - {
+        startTime: "09:00",
+        endTime: "10:00",
+        sessionIds: [001]
+    }
+    - {
+    	startTime: "10:00",
+    	endTime: "10:15",
+    	sessionIds: [307]
+    }
+    - {
+    	startTime: "10:15",
+    	endTime: "11:45",
+    	sessionIds: [002, 003, 004]
+    }
+    - {
+        startTime: "11:45",
+        endTime: "12:00",
+        sessionIds: [307]
+    }
+    - {
+    	startTime: "12:00",
+    	endTime: "12:30",
+    	sessionIds: [005]
+    }

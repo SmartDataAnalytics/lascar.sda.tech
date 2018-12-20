@@ -1,0 +1,92 @@
+- 
+  id: 0
+  name: "Adnan Akhtar"
+  affiliation: "University of Leipzig"
+  site:
+- 
+  id: 1
+  name: "Afshin Sadeghi"
+  affiliation: "University of Bonn"
+  site: http://sda.cs.uni-bonn.de/people/afshin-sadeghi/
+- 
+  id: 2
+  name: "Anisa Rula"
+  affiliation: "University of Milano-Bicocca, Italy"
+  site:
+- 
+  id: 3
+  name: "Claus Stadler"
+  affiliation: "University of Leipzig"
+  site:
+- 
+  id: 4
+  name: "Fabrizio Orlandi"
+  affiliation: "Trinity College Dublin, Ireland"
+  site:
+- 
+  id: 5
+  name: "Fathoni Musyafa"
+  affiliation: "University of Bonn"
+  site:
+- 
+  id: 6
+  name: "Gaurav Maheshwari"
+  affiliation: "Fraunhofer IAIS"
+  site:
+- 
+  id: 7
+  name: "Harsh Thakkar"
+  affiliation: "University of Bonn"
+  site:
+- 
+  id: 8
+  name: "Heba Mohamed"
+  affiliation: "University of Bonn"
+  site:
+- 
+  id: 9
+  name: "Mohamed. N. Mami"
+  affiliation: "Fraunhofer IAIS"
+  site:
+- 
+  id: 10
+  name: "Mohamed A. Sherif"
+  affiliation: "University of Paderborn"
+  site:
+- 
+  id: 11
+  name: "Patrick Westphal"
+  affiliation: "University of Leipzig"
+  site:
+- 
+  id: 12
+  name: "Priyansh Trivedi"
+  affiliation: "Fraunhofer IAIS"
+  site:
+- 
+  id: 13
+  name: "Rajjat Dadwal"
+  affiliation: "Fraunhofer IAIS"
+  site:
+- 
+  id: 14
+  name: "Shimaa Ibrahim"
+  affiliation: "University of Bonn"
+  site:
+- 
+  id: 15
+  name: "Simon Bin"
+  affiliation: "University of Leipzig"
+  site:
+- 
+  id: 16
+  name: "Nayef Roqaya"
+  affiliation: "Coins Information system GmbH"
+  site:
+- 
+  id: 17
+  name: "Tommaso Soru"
+  affiliation: "Semantic Integration Ltd., London, United Kingdom"
+  site:
+
+  

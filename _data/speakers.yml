@@ -1,0 +1,12 @@
+- 
+  id: 1
+  name: "TBA"
+  surname: ""
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: http://www.clker.com/cliparts/d/L/P/X/z/i/no-image-icon-md.png
+  keynote: true
+  social: 
+    - {name: "twitter", link: ""}
+    - {name: "github", link: "https://github.com/GezimSejdiu"}

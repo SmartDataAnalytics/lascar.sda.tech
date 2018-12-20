@@ -1,0 +1,60 @@
+- 
+  id: 0
+  name: "Dr. Hajira"
+  surname: "Jabeen"
+  title: "Smart Data Analytics, Uni.Bonn, Germany"
+  thumbnailUrl: https://scholar.google.de/citations?view_op=view_photo&user=52Q9BbMAAAAJ&citpid=1
+  team: true
+  ribbon: 
+    - {abbr: "SDA", title: "Smart Data Analytics"}
+  social: 
+    - {name: "twitter", link: "https://twitter.com/hajiraajabeen"}
+    - {name: "site", link: "http://sda.cs.uni-bonn.de/people/dr-hajira-jabeen/"}
+- 
+  id: 1
+  name: "Dr. Damien"
+  surname: "Graux"
+  title: "Fraunhofer IAIS, Germany"
+  thumbnailUrl: http://sda.cs.uni-bonn.de/wp-content/uploads/2018/02/separate-2.jpg
+  team: true
+  ribbon: 
+    - {abbr: "IAIS", title: "Fraunhofer IAIS"}
+  social: 
+    - {name: "site", link: "http://sda.cs.uni-bonn.de/people/dr-damien-graux/"}
+- 
+  id: 2
+  name: "Dr. Mohammed"
+  surname: "Saleem"
+  title: "AKSW, University Leipzig"
+  thumbnailUrl: https://sites.google.com/site/saleemsweb/_/rsrc/1540864803398/home/WhatsApp%20Image%202018-07-02%20at%2010.23.48.jpeg?height=200&width=168
+  team: true
+  ribbon: 
+    - {abbr: "AKSW", title: "University of Leipizg"}
+  social: 
+    - {name: "twitter", link: "https://twitter.com/saleem_muhamad"}
+    - {name: "site", link: "https://sites.google.com/site/saleemsweb/"}
+-  
+  id: 3
+  name: "Gezim"
+  surname: "Sejdiu"
+  title: "Smart Data Analytics, Uni.Bonn, Germany"
+  thumbnailUrl: https://avatars3.githubusercontent.com/u/5259296?s=400&u=2923073a71257798968eb57c860c45d4e7a18d72&v=4
+  team: true
+  ribbon: 
+    - {abbr: "SDA", title: "Smart Data Analytics"}
+  social: 
+    - {name: "twitter", link: "https://twitter.com/Gezim_Sejdiu"}
+    - {name: "github", link: "https://github.com/GezimSejdiu"}
+    - {name: "site", link: "https://gezimsejdiu.github.io/"}
+-   
+  id: 4
+  name: "Prof. Dr. Jens"
+  surname: "Lehmann"
+  title: "Smart Data Analytics, Uni.Bonn, Germany"
+  thumbnailUrl: http://jens-lehmann.org/images/passbild_lehmann_200px.jpg
+  team: true
+  ribbon: 
+    - {abbr: "SDA", title: "Smart Data Analytics"}
+  social: 
+    - {name: "twitter", link: "https://twitter.com/JLehmann82"}
+    - {name: "site", link: "http://jens-lehmann.org/"}
