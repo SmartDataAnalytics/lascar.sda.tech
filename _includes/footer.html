@@ -1,0 +1,39 @@
+<!-- Begin Footer -->
+<footer id="footer" class="footer">
+	<div class="row">
+		<div class="col-md-6 col-xs-12">
+			<ul class="social-links">
+				{% for social in site.socialLinks %}
+				<li>
+					<a href="{% if social.permalink != null %} {{ social.permalink | prepend: site.baseurl }} {% else %} {{ social.link }} {% endif %}" target="_blank">
+						<svg class="icon icon-{{ social.icon }}" viewBox="0 0 30 32">
+							<use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-{{ social.icon }}"></use>
+						</svg>
+					</a>
+				</li>
+				{% endfor %}
+			</ul>
+		</div>
+        <div class="col-lg-10 col-lg-offset-1">
+            {% for sponsor in site.data.sponsors %}
+            <ul class="list-inline">
+                {% for element in sponsor.elements %}
+                <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
+                    <a href="{{ element.link }}" target="_blank">
+                        <img src="{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
+                    </a>
+                </li>
+                {% endfor %}
+            </ul>
+            {% endfor %}
+        </div>
+    </div> 
+	<div class="row">
+		<div class="col-md-6">
+			<p class="copyright">
+				&copy; 2018 Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> and  <a href="https://github.com/gdg-x/zeppelin" target="_blank">Project Zeppelin</a>.
+			</p>
+		</div>
+	</div>
+</footer>
+<!-- End Footer -->

@@ -1,0 +1,24 @@
+<!-- Submissions Section -->
+<section id="submission" class="submission">
+        <div class="content-wrapper">
+                <div class="col-lg-10 col-lg-offset-1">
+                    <div class="row about-details text-justify">
+                        {% assign animationDelay = 0 %}
+                        {% for submission in site.submissionBlock %}
+                        {% assign colWidth = 12 | divided_by: forloop.length %}
+                        <div class="col-md-{{ colWidth }} col-xs-6">  
+                            <div class="animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
+                                {% if submission.title != null %}<h4>{{ submission.title }}</h4>{% endif %}
+                                <p>{{ submission.text }}</p>
+                            </div>
+                        </div>
+                        {% assign animationDelay = animationDelay | plus:500 %}
+                        {% assign check = forloop.index | modulo:2 %}
+                        {% if check == 0 %} <div class="clearfix visible-xs"></div> {% endif %}
+                        {% endfor %}
+                    </div>
+                    <a href="{{ site.cfpLink }}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if site.cfpLink != null %}target="_blank"{% endif %}>{{ site.cfpText }}</a>
+                </div>
+            </div>
+</section>
+<!-- End Submissions Section -->

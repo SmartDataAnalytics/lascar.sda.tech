@@ -1,0 +1,18 @@
+<!-- Begin Subscribe Section -->
+<section id="subscribe" class="subscribe image-section parallax" style="background-image: url({{ site.baseurl }}/img/sections-background/{{ site.subscribeImage }});">
+    <div class="overlay solid-overlay"></div>
+    <div class="content-wrapper">
+        <div class="col-lg-8 col-lg-offset-2 animated hiding" data-animation="fadeInUp" data-delay="0">
+            <h3>{{ site.subscribeTitle }}</h3>
+            <div id="mc_embed_signup" class="col-lg-8 col-sm-8 col-lg-offset-2 col-sm-offset-2">
+                <form action="{{site.subscribeAction}}" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                    {% for button in site.heroButtons %}
+                    <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>
+                    {% endfor %}
+                </form>
+                <span class="subscribe-info">{{ site.subscribeInfo }}</span>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End Subscribe Section -->
