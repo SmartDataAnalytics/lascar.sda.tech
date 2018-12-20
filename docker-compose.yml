@@ -1,0 +1,22 @@
+version: "2"
+
+services:
+  lascar:
+    image: index.docker.io/smartdataanalytics/lascar-site:develop
+    container_name: lascar
+    restart: unless-stopped
+    environment:
+      - REPO=https://github.com/SmartDataAnalytics/lascar.sda.tech
+      - BRANCH=master
+    ports:
+      - 8080:80
+    volumes:
+      - /var/www/lascar.sda.tech/:/data/jekyll/
+
+  watchtower:
+    image: v2tec/watchtower
+    restart: unless-stopped
+    container_name: watchtower
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+    command: lascar
