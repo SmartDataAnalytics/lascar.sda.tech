@@ -36,7 +36,7 @@ heroImage: "ESWC_location.jpg"
 heroTitle: "LASCAR <typeout> 2019"
 eventDate: "2nd – 6th June 2019, Portorož, Slovenia"
 typeoutTextValues: '"", "Workshop on Large Scale RDF Analytics", "at ESWC"'
-typeoutFallback: "Portorosh, Slovenia"
+typeoutFallback: "at ESWC"
 heroButtons:
  - {link: "https://www.easychair.org/conferences/?conf=lascar19", text: "Submit your work"}
 
