@@ -1,87 +1,87 @@
 - 
   id: 0
   name: "Adnan Akhtar"
-  affiliation: "University of Leipzig"
-  site:
+  affiliation: "University of Leipzig, Germany"
+  site: 
 - 
   id: 1
   name: "Afshin Sadeghi"
-  affiliation: "University of Bonn"
+  affiliation: "University of Bonn, Germany"
   site: http://sda.cs.uni-bonn.de/people/afshin-sadeghi/
 - 
   id: 2
-  name: "Anisa Rula"
+  name: "Dr. Anisa Rula"
   affiliation: "University of Milano-Bicocca, Italy"
-  site:
+  site: http://inside.disco.unimib.it/index.php/people/anisa-rula/
 - 
   id: 3
   name: "Claus Stadler"
-  affiliation: "University of Leipzig"
-  site:
+  affiliation: "University of Leipzig, Germany"
+  site: http://aksw.org/ClausStadler.html
 - 
   id: 4
-  name: "Fabrizio Orlandi"
+  name: "Dr. Fabrizio Orlandi"
   affiliation: "Trinity College Dublin, Ireland"
   site:
 - 
   id: 5
   name: "Fathoni Musyafa"
-  affiliation: "University of Bonn"
-  site:
+  affiliation: "University of Bonn, Germany"
+  site: http://sda.cs.uni-bonn.de/people/fathoni-a-musyaffa/
 - 
   id: 6
   name: "Gaurav Maheshwari"
-  affiliation: "Fraunhofer IAIS"
-  site:
+  affiliation: "Fraunhofer IAIS, Germany"
+  site: 
 - 
   id: 7
   name: "Harsh Thakkar"
-  affiliation: "University of Bonn"
-  site:
+  affiliation: "University of Bonn, Germany"
+  site: http://sda.cs.uni-bonn.de/people/harsh-thakkar/
 - 
   id: 8
   name: "Heba Mohamed"
-  affiliation: "University of Bonn"
-  site:
+  affiliation: "University of Bonn, Germany"
+  site: http://sda.cs.uni-bonn.de/people/heba-ibrahim/
 - 
   id: 9
   name: "Mohamed. N. Mami"
-  affiliation: "Fraunhofer IAIS"
-  site:
+  affiliation: "Fraunhofer IAIS, Germany"
+  site: 
 - 
   id: 10
-  name: "Mohamed A. Sherif"
+  name: "Dr. Mohamed A. Sherif, Germany"
   affiliation: "University of Paderborn"
-  site:
+  site: https://dice.cs.uni-paderborn.de/team/profiles/sherif/
 - 
   id: 11
   name: "Patrick Westphal"
-  affiliation: "University of Leipzig"
-  site:
+  affiliation: "University of Leipzig, Germany"
+  site: http://aksw.org/PatrickWestphal.html
 - 
   id: 12
   name: "Priyansh Trivedi"
-  affiliation: "Fraunhofer IAIS"
-  site:
+  affiliation: "Fraunhofer IAIS, Germany"
+  site: 
 - 
   id: 13
   name: "Rajjat Dadwal"
-  affiliation: "Fraunhofer IAIS"
+  affiliation: "Fraunhofer IAIS, Germany"
   site:
 - 
   id: 14
   name: "Shimaa Ibrahim"
-  affiliation: "University of Bonn"
-  site:
+  affiliation: "University of Bonn, Germany"
+  site: http://sda.cs.uni-bonn.de/people/shimaa-ibrahim/
 - 
   id: 15
   name: "Simon Bin"
-  affiliation: "University of Leipzig"
-  site:
+  affiliation: "University of Leipzig, Germany"
+  site: http://aksw.org/SimonBin.html
 - 
   id: 16
   name: "Nayef Roqaya"
-  affiliation: "Coins Information system GmbH"
+  affiliation: "Coins Information system GmbH, Germany"
   site:
 - 
   id: 17

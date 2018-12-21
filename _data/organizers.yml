@@ -21,20 +21,8 @@
     - {abbr: "IAIS", title: "Fraunhofer IAIS"}
   social: 
     - {name: "site", link: "http://sda.cs.uni-bonn.de/people/dr-damien-graux/"}
-- 
-  id: 2
-  name: "Dr. Mohammed"
-  surname: "Saleem"
-  title: "AKSW, University Leipzig"
-  thumbnailUrl: https://sites.google.com/site/saleemsweb/_/rsrc/1540864803398/home/WhatsApp%20Image%202018-07-02%20at%2010.23.48.jpeg?height=200&width=168
-  team: true
-  ribbon: 
-    - {abbr: "AKSW", title: "University of Leipizg"}
-  social: 
-    - {name: "twitter", link: "https://twitter.com/saleem_muhamad"}
-    - {name: "site", link: "https://sites.google.com/site/saleemsweb/"}
 -  
-  id: 3
+  id: 2
   name: "Gezim"
   surname: "Sejdiu"
   title: "Smart Data Analytics, Uni.Bonn, Germany"
@@ -46,6 +34,18 @@
     - {name: "twitter", link: "https://twitter.com/Gezim_Sejdiu"}
     - {name: "github", link: "https://github.com/GezimSejdiu"}
     - {name: "site", link: "https://gezimsejdiu.github.io/"}
+- 
+  id: 3
+  name: "Dr. Mohammed"
+  surname: "Saleem"
+  title: "AKSW, University Leipzig"
+  thumbnailUrl: https://sites.google.com/site/saleemsweb/_/rsrc/1540864803398/home/WhatsApp%20Image%202018-07-02%20at%2010.23.48.jpeg?height=200&width=168
+  team: true
+  ribbon: 
+    - {abbr: "AKSW", title: "University of Leipizg"}
+  social: 
+    - {name: "twitter", link: "https://twitter.com/saleem_muhamad"}
+    - {name: "site", link: "https://sites.google.com/site/saleemsweb/"}
 -   
   id: 4
   name: "Prof. Dr. Jens"
