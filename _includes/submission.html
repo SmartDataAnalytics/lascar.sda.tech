@@ -17,7 +17,7 @@
                         {% if check == 0 %} <div class="clearfix visible-xs"></div> {% endif %}
                         {% endfor %}
                     </div>
-                    <a href="{{ site.cfpLink }}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if site.cfpLink != null %}target="_blank"{% endif %}>{{ site.cfpText }}</a>
+                    <a href="{{ site.cfpLink }}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if site.cfpLink != null %}{% endif %}>{{ site.cfpText }}</a>
                 </div>
             </div>
 </section>
