@@ -20,6 +20,7 @@ permalink: "/blog/:title.html"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
+ - {permalink: "/blog/call-for-papers.html", text: "Call for Papers"}
  - {permalink: "/blog/", text: "News"}
  - {permalink: "/submission/", text: "Submissions and Dates"}
  - {permalink: "/team/", text: "Committes"}
@@ -38,6 +39,7 @@ eventDate: "2nd – 6th June 2019, Portorož, Slovenia"
 typeoutTextValues: '"", "Workshop on Large Scale RDF Analytics", "at ESWC"'
 typeoutFallback: "at ESWC"
 heroButtons:
+ - {permalink: "/blog/call-for-papers.html", text: "Call for Papers"}
  - {link: "https://www.easychair.org/conferences/?conf=lascar19", text: "Submit your work"}
 
 # About Block
