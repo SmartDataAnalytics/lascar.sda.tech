@@ -86,7 +86,7 @@ partnersTitle: "Partners"
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Submit your contribution work"
 subscribeAction: "https://www.easychair.org/conferences/?conf=lascar19"
-subscribeInfo: "Submission will be open open until 1st of March 2019."
+subscribeInfo: "Submission will be open open until <span style='text-decoration: line-through;''>1st of March 2019</span> <strong>15th of March 2019</strong> ."
 
 
 # Footer
