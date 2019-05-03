@@ -21,7 +21,7 @@
                                 {% endif %}
                                 {% if site.showSessions %}
                                 <figcaption>
-                                    <h2 class="name">{{ speaker.name }} <span>{{ speaker.surname }}</span></h2>
+                                    <h2 class="name">{{ speaker.title }}  {{ speaker.name }} <span>{{ speaker.surname }}</span></h2>
                                     <p class="position">{{ speaker.company }}</p>
                                 </figcaption>
                                 {% endif %}
@@ -40,7 +40,7 @@
                                         {% endfor %} 
                                     {% endfor %} 
                                 {% else %}
-                                    <h2 class="name">{{ speaker.name }} <span>{{ speaker.surname }}</span></h2>
+                                    <h2 class="name">{{ speaker.title }} {{ speaker.name }} <span>{{ speaker.surname }}</span></h2>
                                     <p class="position">{{ speaker.company }}</p>
                                 {% endif %}
                             </ul>
