@@ -55,6 +55,11 @@
                                                 {% endfor %}    
                                             {% endfor %}
                                         </ul>
+                                        <ul class="slot-speakers">
+                                                {% if session.authors != null %}
+                                                <span class="speaker-position">{{ session.authors }}</span>
+                                                    {% endif %}
+                                        </ul>
                                     </div>
                                 </div>
                                 {% elsif slot == session.id and session.service != null %}

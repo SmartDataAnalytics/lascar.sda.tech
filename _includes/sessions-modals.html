@@ -12,6 +12,9 @@
 							<div class="close-mask" data-dismiss="modal"></div>
 						</div>
 						<h4>{{ session.title }}</h4>
+						{% if session.authors != null %}
+						<span class="theme-metadata"><span class="caption">by </span>{{ session.authors }}</span>
+						{% endif %}
 						{% if session.language != null %}
 						<span class="theme-metadata"><span class="caption">Language: </span>{{ session.language }}</span>
 						{% endif %}
@@ -24,9 +27,12 @@
 						</div>
 						{% endif %}
 						<p class="theme-description">{{ session.description }}</p>
+						{% if session.preprint %}
+						<a class="theme-presentation" href="{{ session.preprint }}" title="Pre-print" target="_blank">View Pre-print</a>
+						{% endif %}
 						{% if session.presentation %}
 						<a class="theme-presentation" href="{{ session.presentation }}" title="Presentation" target="_blank">View presentation</a>
-						{% endif %}
+						{% endif %}						
 						<hr>
 						<div class="people-details">
 							{% for speaker in site.data.speakers %}
@@ -37,7 +43,7 @@
 											<div class="flow-img img-circle people-img" style="background-image: url({{ speaker.thumbnailUrl }})"></div>
 										</div>
 										<div class="col-md-10 col-sm-10 details">
-											<p class="name">{{ speaker.name }} {{ speaker.surname }}
+											<p class="name">{{ speaker.title }}  {{ speaker.name }} {{ speaker.surname }}
 												<span class="position">{{ speaker.title }}, {{ speaker.company }}</span>
 											</p>
 											{% if speaker.ribbon != null %}
