@@ -5,7 +5,7 @@ date:   2019-05-03 09:00:00
 author: Gezim Sejdiu
 isStaticPost: false
 ---
-We have happy to announce that [Prof. Dr. Olivier Curé](http://igm.univ-mlv.fr/~ocure) from the [University of Paris-Est Marne la Vallée (UPEM)](http://www.u-pem.fr/) will give a keynote entitled **"Analytical processing and reasoning in RDF stores"** at our LASCAR Workshop, [co-located with the ESWC 2019](https://2019.eswc-conferences.org/program/#june3). 
+We are happy to announce that [Prof. Dr. Olivier Curé](http://igm.univ-mlv.fr/~ocure) from the [University of Paris-Est Marne la Vallée (UPEM)](http://www.u-pem.fr/) will give a keynote entitled **"Analytical processing and reasoning in RDF stores"** at our LASCAR Workshop, [co-located with the ESWC 2019](https://2019.eswc-conferences.org/program/#june3). 
 
 For more details, read the abstract and a short bio below:
 
