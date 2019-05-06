@@ -33,14 +33,14 @@
   id: 004
   title: "Unsupervised Hierarchical Grouping of Knowledge Graph Entities"
   description: "Knowledge graphs have attracted lots of attention in academic and industrial environments. Despite their usefulness, popular knowledge graphs suffer from incompleteness of information especially in their type assertions. This has encouraged research in the automatic discovery of entity types. In this context, multiple works were developed to utilise logical inference on ontologies and statistical machine learning methods to learn type assertion in knowledge graphs. However, these approaches suffer from limited performance on noisy data, limited scalability and the dependence on labelled training samples. In this work, we propose a new unsupervised approach that learns to categorise entities into a hierarchy of named groups. We show that our approach is able to effectively learn entity groups using a scalable procedure in noisy and sparse datasets. We experiment our approach on a set of popular knowledge graph benchmarking datasets, and we publish a collection of the outcome group hierarchies" 
-  authors: "<a href='http://samehkamaleldin.github.io/'>Sameh Mohamed</a>"
+  authors: "<a href='http://samehkamaleldin.github.io/'><strong>Sameh Mohamed</strong></a>"
   subtype: presentation
   preprint: "http://127.0.0.1:4000/assets/accepted-papers/LASCAR-19_paper_3.pdf"
 -
   id: 005
   title: "Towards Enforceable Usage Policies for Industry 4.0"
   description: "Controlling the usage of business-critical data is essential for every company. While the upcoming age of Industry 4.0 propagates a seamless data exchange between all participating devices, facilities and companies along the production chain, the required data control mechanisms are lacking behind. We claim that for an effective protection, both access and usage control enforcement is a must-have for organizing Industry 4.0 collaboration networks. Formalized and machine-readable policies are one fundamental building block to achieve the needed trust level for real data-driven collaborations. We explain the current challenges of specifying access and usage control policies and outline respective approaches relying on Semantic Web of Things practices. We analyze the requirements and implications of existing technologies and discuss their shortcomings. Based on our experiences from the specification of the International Data Spaces Usage Control Language, the necessary next steps towards automatically monitored and enforced policies are outlined and research needs formulated." 
-  authors: "Sebastian Bader, and <a href='http://sda.cs.uni-bonn.de/people/dr-maria-maleshkova/'>Maria Maleshkova</a>"
+  authors: "<strong>Sebastian Bader</strong>, and <a href='http://sda.cs.uni-bonn.de/people/dr-maria-maleshkova/'>Maria Maleshkova</a>"
   subtype: presentation
   preprint: "http://127.0.0.1:4000/assets/accepted-papers/LASCAR-19_paper_4.pdf"
 
