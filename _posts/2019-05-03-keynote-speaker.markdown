@@ -9,6 +9,9 @@ We are happy to announce that [Prof. Dr. Olivier Curé](http://igm.univ-mlv.fr/~
 
 For more details, read the abstract and a short bio below:
 
+#### Title
+**Analytical processing and reasoning in RDF stores**
+
 #### Abstract
 Although most production-ready RDF database management systems are equipped with transactional support, one can consider that they do not really fit into the OLTP database category.
 In fact, based on typical use cases, they are more closely related to OLAP.
