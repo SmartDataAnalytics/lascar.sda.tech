@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "LASCAR 2019 Program"
+date:   2019-05-06 09:00:00
+author: Gezim Sejdiu
+isStaticPost: false
+---
+The [LASCAR Workshop Program](/schedule/) is now avaliable.
+A gret combination of a [keynote about "Analytical processing and reasoning in RDF stores"](/blog/keynote-speaker.html) by [Prof. Dr. Olivier Curé](http://igm.univ-mlv.fr/~ocure/), [paper presentations](/blog/accepted-papers.html), delicious coffe, networking and panel discussion.
+
+For more details check [the agenda](/schedule/) out. And, yes, do not forget to show up at our workshop on [3rd of June @ESWC2019](https://2019.eswc-conferences.org/program/#june3).
+
+Not to be missed!
+----
+
+Looking forward to seeing you [@ESWC2019](https://2019.eswc-conferences.org/).
+
