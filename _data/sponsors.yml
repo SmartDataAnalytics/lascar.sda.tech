@@ -3,5 +3,5 @@
   elements: 
     - {name: "Smart Data Analytics", description: "Smart Data Analytics", link: "http://sda.tech/", imageUrl: "http://sansa-stack.net/wp-content/uploads/2016/02/Smart-Data-Analytics-300x112.png"}
     - {name: "University of Bonn", description: "University of Bonn", link: "https://www.uni-bonn.de/", imageUrl: "https://www.uni-bonn.de/logo.png"}
-    - {name: "Fraunhofer IAIS", description: "Fraunhofer Institute for Intelligent Analysis and Information Systems IAIS", link: "de", imageUrl: "https://www.iais.fraunhofer.de/content/dam/iais/iais.svg"}
-    - {name: "DICE Research", description: "THE DATA SCIENCE GROUP", link: "https://dice.cs.uni-paderborn.de/about/", imageUrl: "https://dice.cs.uni-paderborn.de/fileadmin/template/img/logo_left.png"}
+    - {name: "Trinity College of Dublin@ADAPT Centre", description: "Trinity College of Dublin@ADAPT Centre", link: "https://www.adaptcentre.ie/", imageUrl: "https://i1.wp.com/problemsolving.ie/wp-content/uploads/2016/06/Adapt_Logo_RGB.png?resize=219%2C188"}
+    - {name: "University of Athens", description: "University of Athens", link: "https://en.uoa.gr/", imageUrl: "https://en.uoa.gr/fileadmin/user_upload/uoa_logo_eng.svg"}
