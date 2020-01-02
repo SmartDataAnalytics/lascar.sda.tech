@@ -17,32 +17,29 @@
 
 -
   id: 002
-  title: "Keynote: Analytical processing and reasoning in RDF stores"
-  description: "Although most production-ready RDF database management systems are equipped with transactional support, one can consider that they do not really fit into the OLTP database category. In fact, based on typical use cases, they are more closely related to OLAP. But are they equipped with the operations expected for analytical processing, especially when reasoning is involved? In this keynote, we will consider this question in the context a selected set of production-ready RDF stores."
+  title: "Keynote: TBA"
+  description: ""
   subtype: keynote
   speakers: [1]
 
 -
   id: 003
-  title: "Extending LiteMat toward RDFS++"
-  description: "In this paper, we extend LiteMat, an encoding scheme for RDF data that currently supports inferences based on RDFS and the owl:sameAs property, which is used in a distributed knowledge graph data management system. Our extensions enable to reach RDFS++ expressiveness by integrating owl:transitiveProperty and owl:inverseOf properties. Considering the latter, owl:inverseOf property, we propose a simple solution that involves a dictionary look-up at query run-time. For the former, we present an efficient approach to encode individuals involved in chain and tree structures of a transitive property. We provide details of a distributed implementation and highlight the efficiency of our encoding and query processing approaches over large synthetic datasets." 
-  authors: "<a href='http://igm.univ-mlv.fr/~ocure'>Olivier Curé</a>, <strong>Weiqin Xu</strong>, Hubert Naacke, and Philippe Calvez"
+  title: "Paper session"
+  description: "TBA" 
+  authors: ""
   subtype: presentation
-  preprint: "http://127.0.0.1:4000/assets/accepted-papers/LASCAR-19_paper_2.pdf"
 -
   id: 004
-  title: "Unsupervised Hierarchical Grouping of Knowledge Graph Entities"
-  description: "Knowledge graphs have attracted lots of attention in academic and industrial environments. Despite their usefulness, popular knowledge graphs suffer from incompleteness of information especially in their type assertions. This has encouraged research in the automatic discovery of entity types. In this context, multiple works were developed to utilise logical inference on ontologies and statistical machine learning methods to learn type assertion in knowledge graphs. However, these approaches suffer from limited performance on noisy data, limited scalability and the dependence on labelled training samples. In this work, we propose a new unsupervised approach that learns to categorise entities into a hierarchy of named groups. We show that our approach is able to effectively learn entity groups using a scalable procedure in noisy and sparse datasets. We experiment our approach on a set of popular knowledge graph benchmarking datasets, and we publish a collection of the outcome group hierarchies" 
-  authors: "<a href='http://samehkamaleldin.github.io/'><strong>Sameh Mohamed</strong></a>"
+  title: "Paper session"
+  description: "" 
+  authors: ""
   subtype: presentation
-  preprint: "http://127.0.0.1:4000/assets/accepted-papers/LASCAR-19_paper_3.pdf"
 -
   id: 005
-  title: "Towards Enforceable Usage Policies for Industry 4.0"
-  description: "Controlling the usage of business-critical data is essential for every company. While the upcoming age of Industry 4.0 propagates a seamless data exchange between all participating devices, facilities and companies along the production chain, the required data control mechanisms are lacking behind. We claim that for an effective protection, both access and usage control enforcement is a must-have for organizing Industry 4.0 collaboration networks. Formalized and machine-readable policies are one fundamental building block to achieve the needed trust level for real data-driven collaborations. We explain the current challenges of specifying access and usage control policies and outline respective approaches relying on Semantic Web of Things practices. We analyze the requirements and implications of existing technologies and discuss their shortcomings. Based on our experiences from the specification of the International Data Spaces Usage Control Language, the necessary next steps towards automatically monitored and enforced policies are outlined and research needs formulated." 
-  authors: "<strong>Sebastian Bader</strong>, and <a href='http://sda.cs.uni-bonn.de/people/dr-maria-maleshkova/'>Maria Maleshkova</a>"
+  title: "Paper session"
+  description: "TBA" 
+  authors: ""
   subtype: presentation
-  preprint: "http://127.0.0.1:4000/assets/accepted-papers/LASCAR-19_paper_4.pdf"
 
 -
   id: 006

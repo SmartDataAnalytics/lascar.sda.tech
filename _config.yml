@@ -10,8 +10,8 @@ exclude: ['README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "LASCAR @ ESWC 2019"
-description: "Workshop on Large Scale RDF Analytics"
+title: "LASCAR @ ESWC 2020"
+description: "2nd Workshop on Large Scale RDF Analytics"
 baseurl: ""
 url: "http://lascar.sda.tech/"
 permalink: "/blog/:title.html"
@@ -26,21 +26,21 @@ navigationLinks:
  - {permalink: "/team/", text: "Committes"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "#", text: "Proceedings"}
+ - {permalink: "#", text: "Past Workshops"}
 bottomNavigationLinks:
- - {link: "https://www.easychair.org/conferences/?conf=lascar19", text: "Submit your work"}
+ - {link: "https://www.easychair.org/conferences/?conf=lascar20", text: "Submit your work"}
 rightNavigationButtons:
- - {link: "https://www.easychair.org/conferences/?conf=lascar19", text: "Submit your work"}
+ - {link: "https://www.easychair.org/conferences/?conf=lascar20", text: "Submit your work"}
 
 # Hero Block
-heroImage: "ESWC_location.jpg"
-heroTitle: "LASCAR <typeout> 2019"
-eventDate: "2nd – 6th June 2019, Portorož, Slovenia"
-typeoutTextValues: '"", "Workshop on Large Scale RDF Analytics", "at ESWC"'
+heroImage: "ESWC_2020_location.jpg"
+heroTitle: "LASCAR <typeout> 2020"
+eventDate: "May 31, 2020 - Jun 4, 2020 Heraklion, Crete, Greece"
+typeoutTextValues: '"", "2nd Workshop on Large Scale RDF Analytics", "at ESWC"'
 typeoutFallback: "at ESWC"
 heroButtons:
  - {permalink: "/blog/call-for-papers.html", text: "Call for Papers"}
- - {link: "https://www.easychair.org/conferences/?conf=lascar19", text: "Submit your work"}
+ - {link: "https://www.easychair.org/conferences/?conf=lascar20", text: "Submit your work"}
 
 # About Block
 aboutTitle: "About LASCAR Workshop"
@@ -56,7 +56,7 @@ submissionTitle: "Submissions"
 submissionBlock:
 
  - {title: "Submission Guidelines", text: "All papers should be formatted according to the standard <a href='http://www.springer.com/us/computer-science/lncs/conference-proceedings-guidelines'>LNCS Style</a>. All papers will be peer reviewed using the single-blind approach. Authors of the accepted papers will be asked to register for the workshop and will have the opportunity to present and participate in the workshop. Long papers should not be longer than 10 pages including the references, and short papers should not exceed 6 pages, including all references.  The accepted papers will be published online in CEUR Workshop Proceedings (<a href='http://CEUR-WS.org'>CEUR-WS.org</a>). Proceedings and available for download after the conference. The pre-print will be made available during the conference. The authors of the accepted posters will be invited to present their posters at the workshop.</p></br><h4>Please submit your work via <a href='https://www.easychair.org/conferences/?conf=lascar19'>EasyChair</a>.</h4>" }
- - {title: "Important Dates", text: "<ul> <li>Electronic submission of full papers: <span style='text-decoration: line-through;''>March 1st, 2019</span> <strong>March 15th, 2019</strong></li> <li>Notification of paper acceptance: <strong>March 29, 2019</strong></li> <li>Camera-ready of accepted papers: <strong>April 12, 2019</strong></li> <li>Workshop day: 3rd of June, 2019</li></ul>" }
+ - {title: "Important Dates", text: "<ul> <li>Electronic submission of full papers: <strong>February 28th, 2020</strong></li> <li>Notification of paper acceptance: <strong>March 27th, 2020</strong></li> <li>Camera-ready of accepted papers: <strong>April 10th, 2020</strong></li> <li>Workshop day: May 31st, 2020</li></ul>" }
 
  # Latest News Block
 latestNewsTitle: "Latest news"
@@ -71,12 +71,12 @@ keynoteSpeakersButtonText: "More details about the speakers"
 
 # Venue Block
 venueBlockTitle: "Venue"
-venueBigImage: "https://2019.eswc-conferences.org/wp-content/uploads/2018/11/portoroz.png"
-venueSmallImage1: "https://2019.eswc-conferences.org/wp-content/uploads/2018/11/hotel_3.jpg"
-venueSmallImage2: "https://2019.eswc-conferences.org/wp-content/uploads/2018/11/hotel_4.jpg"
-venueSmallImage3: "https://2019.eswc-conferences.org/wp-content/uploads/2018/11/hotel_4.jpg"
-venueTitle: "<a href='https://2019.eswc-conferences.org/conference-venue/' target='_blank'><font color='FFFFFF'>Grand Hotel Bernardin *****</font></a>"
-venueFeatures: ["19 multifunctional meeting rooms", "Main hall for up to 1.100 delegates theatre style", "St. Bernardin Resort is located right next to the sea"]
+venueBigImage: "https://2020.eswc-conferences.org/wp-content/uploads/2017/12/6667_aea1b808a02d1584b38e956d345df570_2.jpg"
+venueSmallImage1: "https://2020.eswc-conferences.org/wp-content/uploads/2017/12/13181_Knossos-Royal-Villas-6_1.jpg"
+venueSmallImage2: "https://2020.eswc-conferences.org/wp-content/uploads/2017/12/Aldemar-Royal-Villas-5-12_0.jpg"
+venueSmallImage3: "https://2020.eswc-conferences.org/wp-content/uploads/2017/12/aldemar_royal_village_12_0.jpg"
+venueTitle: "<a href='https://2020.eswc-conferences.org/conference-venue/' target='_blank'><font color='FFFFFF'>Aldemar Knossos Royal & Royal Villa *****</font></a>"
+venueFeatures: ["A large conference center containing two large halls", "The halls can host over 900 people", "Located right next to the sea"]
 
 # Partners Block
 organizersTitle: "Organizers"
@@ -85,8 +85,8 @@ partnersTitle: "Partners"
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Submit your contribution work"
-subscribeAction: "https://www.easychair.org/conferences/?conf=lascar19"
-subscribeInfo: "Submission will be open open until <span style='text-decoration: line-through;''>1st of March 2019</span> <strong>15th of March 2019</strong> ."
+subscribeAction: "https://www.easychair.org/conferences/?conf=lascar20"
+subscribeInfo: "Submission will be open open until <strong>February 28th, 2020</strong> ."
 
 
 # Footer

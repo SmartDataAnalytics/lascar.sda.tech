@@ -1,12 +1,12 @@
 - 
   id: 1
-  name: "Olivier"
-  surname: "Curé"
-  company: "University of Paris-Est Marne la Vallée (UPEM)"
-  title: "Prof. Dr. "
-  bio: "Olivier Curé is a tenured associate professor in computer science at the University of Paris-Est Marne la Vallée (UPEM) in France. He obtained his Ph.D. in Artificial Intelligence at the Université Paris V, France. His research interests are data and knowledge base management systems, semantic information and reasoning. He has published 1 book ('RDF Database Systems: Triples Storage and SPARQL Query Processing', Morgan Kaufmann, 2014), 5 book chapters, 12 journal papers, and over 60 research papers in international, peer-reviewed conferences on Databases, Semantic Web, and Big Data"
-  thumbnailUrl: https://pbs.twimg.com/profile_images/2848116129/61c7a2f154d18d4ff294a2415e7ec226_400x400.png
+  name: "TBA"
+  surname: ""
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: 
   keynote: true
   social: 
-    - {name: "twitter", link: "https://twitter.com/oliviercure"}
-    - {name: "site", link: "http://igm.univ-mlv.fr/~ocure/LIGM_LIKE/"}
+    - {name: "twitter", link: ""}
+    - {name: "site", link: ""}
