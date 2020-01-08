@@ -1,92 +1,87 @@
 - 
   id: 0
-  name: "Adnan Akhtar"
-  affiliation: "University of Leipzig, Germany"
-  site: 
-- 
-  id: 1
-  name: "Afshin Sadeghi"
-  affiliation: "University of Bonn, Germany"
-  site: http://sda.cs.uni-bonn.de/people/afshin-sadeghi/
-- 
-  id: 2
   name: "Dr. Anisa Rula"
   affiliation: "University of Milano-Bicocca, Italy"
   site: http://inside.disco.unimib.it/index.php/people/anisa-rula/
 - 
-  id: 3
+  id: 1 
   name: "Claus Stadler"
   affiliation: "University of Leipzig, Germany"
   site: http://aksw.org/ClausStadler.html
 - 
-  id: 4
+  id: 2
+  name: "Dr. Michael Galkin"
+  affiliation: "TU Dresden & Fraunhofer IAIS, Germany"
+  site: 
+- 
+  id: 3
   name: "Dr. Fabrizio Orlandi"
   affiliation: "Trinity College Dublin, Ireland"
   site:
 - 
-  id: 5
+  id: 4
   name: "Fathoni Musyafa"
   affiliation: "University of Bonn, Germany"
   site: http://sda.cs.uni-bonn.de/people/fathoni-a-musyaffa/
 - 
+  id: 5
+  name: "Dr. Valentina Janev"
+  affiliation: "Institut Mihajlo Pupin, Serbia"
+  site: http://www.pupin.rs/en/cv/valentina-janev/
+- 
   id: 6
-  name: "Gaurav Maheshwari"
-  affiliation: "Fraunhofer IAIS, Germany"
+  name: "Harsh Thakkar"
+  affiliation: "OSTHUS GmbH, Germany"
   site: 
 - 
   id: 7
-  name: "Harsh Thakkar"
-  affiliation: "University of Bonn, Germany"
-  site: http://sda.cs.uni-bonn.de/people/harsh-thakkar/
-- 
-  id: 8
   name: "Heba Mohamed"
   affiliation: "University of Bonn, Germany"
   site: http://sda.cs.uni-bonn.de/people/heba-ibrahim/
 - 
-  id: 9
+  id: 8
   name: "Mohamed. N. Mami"
   affiliation: "Fraunhofer IAIS, Germany"
   site: 
 - 
-  id: 10
+  id: 9
   name: "Dr. Mohamed A. Sherif"
   affiliation: "University of Paderborn, Germany"
   site: https://dice.cs.uni-paderborn.de/team/profiles/sherif/
 - 
-  id: 11
-  name: "Patrick Westphal"
-  affiliation: "University of Leipzig, Germany"
-  site: http://aksw.org/PatrickWestphal.html
-- 
-  id: 12
-  name: "Priyansh Trivedi"
-  affiliation: "Fraunhofer IAIS, Germany"
+  id: 10
+  name: "Ivan Ermilov"
+  affiliation: "Eccenca GmbH, Germany"
   site: 
 - 
-  id: 13
-  name: "Rajjat Dadwal"
-  affiliation: "Fraunhofer IAIS, Germany"
-  site:
+  id: 11
+  name: "Harshvardhan Jitendra Pandit"
+  affiliation: "ADAPT Centre, Trinity College of Dublin, Ireland"
+  site: 
 - 
-  id: 14
+  id: 12
+  name: "Giovanni Simonini"
+  affiliation: "MIT DSAIL, USA"
+  site: http://dsg.csail.mit.edu/index.php/giovanni-simonini/
+- 
+  id: 13
   name: "Shimaa Ibrahim"
   affiliation: "University of Bonn, Germany"
   site: http://sda.cs.uni-bonn.de/people/shimaa-ibrahim/
 - 
-  id: 15
-  name: "Simon Bin"
-  affiliation: "University of Leipzig, Germany"
-  site: http://aksw.org/SimonBin.html
+  id: 14
+  name: "Vasilis Efthymiou"
+  affiliation: "IBM Almaden Research Center, USA"
+  site: 
 - 
-  id: 16
+  id: 15
   name: "Nayef Roqaya"
   affiliation: "Coins Information system GmbH, Germany"
   site:
 - 
-  id: 17
-  name: "Tommaso Soru"
-  affiliation: "Semantic Integration Ltd., London, United Kingdom"
-  site:
+  id: 16
+  name: "Hiba Arnaout"
+  affiliation: "Max Planck Institute for Informatics, Germany"
+  site: http://people.mpi-inf.mpg.de/~harnaout/
 
   
