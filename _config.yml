@@ -56,7 +56,7 @@ submissionTitle: "Submissions"
 submissionBlock:
 
  - {title: "Submission Guidelines", text: "All papers should be formatted according to the standard <a href='http://www.springer.com/us/computer-science/lncs/conference-proceedings-guidelines'>LNCS Style</a>. All papers will be peer reviewed using the single-blind approach. Authors of the accepted papers will be asked to register for the workshop and will have the opportunity to present and participate in the workshop. Long papers should not be longer than 10 pages including the references, and short papers should not exceed 6 pages, including all references.  The accepted papers will be published online in CEUR Workshop Proceedings (<a href='http://CEUR-WS.org'>CEUR-WS.org</a>). Proceedings and available for download after the conference. The pre-print will be made available during the conference. The authors of the accepted posters will be invited to present their posters at the workshop.</p></br><h4>Please submit your work via <a href='https://www.easychair.org/conferences/?conf=lascar19'>EasyChair</a>.</h4>" }
- - {title: "Important Dates", text: "<ul> <li>Electronic submission of full papers: <strong>February 28th, 2020</strong></li> <li>Notification of paper acceptance: <strong>March 27th, 2020</strong></li> <li>Camera-ready of accepted papers: <strong>April 10th, 2020</strong></li> <li>Workshop day: May 31st, 2020</li></ul>" }
+ - {title: "Important Dates", text: "<ul> <li>Electronic submission of full papers: <span style='text-decoration: line-through;'>February 28th, 2020</span> <strong>March 14th, 2020</strong></li> <li>Notification of paper acceptance: <strong>March 27th, 2020</strong></li> <li>Camera-ready of accepted papers: <strong>April 10th, 2020</strong></li> <li>Workshop day: May 31st, 2020</li></ul>" }
 
  # Latest News Block
 latestNewsTitle: "Latest news"
@@ -86,7 +86,7 @@ partnersTitle: "Partners"
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Submit your contribution work"
 subscribeAction: "https://www.easychair.org/conferences/?conf=lascar20"
-subscribeInfo: "Submission will be open until <strong>February 28th, 2020</strong> ."
+subscribeInfo: "Submission will be open until <span style='text-decoration: line-through;'>February 28th, 2020</span> <strong>March 14th, 2020</strong> ."
 
 
 # Footer
