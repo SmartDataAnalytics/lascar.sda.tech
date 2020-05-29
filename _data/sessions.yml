@@ -1,14 +1,9 @@
 -
   id: 307
-  title: "Coffee Break"
-  place: "Hall"
+  title: "Break"
+  place: "Virtual"
   service: true
   description: "The best time to talk with speakers and attendees"
--
-  id: 503
-  title: "Lunch Break"
-  place: "Dining room"
-  service: true
 -
   id: 001
   title: "Welcome"
@@ -17,32 +12,36 @@
 
 -
   id: 002
-  title: "Keynote: TBA"
-  description: ""
+  title: "Keynote: Ontology-based natural language query answering"
+  description: "Many business users and line of business owners rely on technical people to query and gain insights from their business data. These technical people are experts on using complex query languages such as SQL or SPARQL. Today, it is vital for non-technical business owners to derive insights from their data as quickly as possible to make effective business decisions. Natural language interfaces enable such non-technical users to explore their business data in a more natural way and without relying on technical users' help. In this talk, we will cover some basics about natural language interfaces to data, we will overview the main components of our ontology-based Natural Language Query (NLQ) stack, and we will explore how this NLQ system can be extended to cover the needs of a conversational system. Specifically, we will see how we enabled a conversational system over IBM Watson Assistant for healthcare data about medication, adverse effects, contra-indications, etc. Finally, we will review our latest works on extending the query answers that we provide by leveraging external ontologies, like SNOMED CT."
   subtype: keynote
   speakers: [1]
 
 -
   id: 003
-  title: "Paper session"
-  description: "TBA" 
-  authors: ""
+  title: "SUBMASSIVE: Resolving Subclass Cycles in Very Large Knowledge Graphs"
+  description: "Large knowledge graphs capture information of a large number of entities and their relations. Among the many relations they capture, class subsumption assertions are usually present and expressed using the rdfs:subClassOf construct. From our examination, publicly available knowledge graphs contain many potentially erroneous cyclic subclass relations, a problem that can be exacerbated when different knowledge graphs are integrated as Linked Open Data. In this paper, we present an automatic approach for resolving such cycles at scale using automated reasoning by encoding the problem of cycle-resolving to a MAXSAT solver. The approach is tested on the LOD-a-lot dataset, and compared against a semi-automatic version of our algorithm. We show how the number of removed triples is a trade-off against the efficiency of the algorithm. The code and the resulting cycle-free class hierarchy of the LOD-a-lot are published at www.submassive.cc."
+  authors: "<a href ='https://research.vu.nl/en/persons/shuai-wang'>Shuai Wang</a>, <a href='http://www.peterbloem.nl/'>Peter Bloem</a>, <a href ='http://www.joe-raad.com/'>Joe Raad</a>, and <a href='https://www.cs.vu.nl/~frankh/'>Frank van Harmelen</a>'."
   subtype: presentation
+  preprint: /assets/accepted-papers/LASCAR20_paper_1.pdf
+
 -
   id: 004
-  title: "Paper session"
-  description: "" 
-  authors: ""
+  title: "Automatic Subject Indexing with Knowledge Graphs"
+  description: "Automatic subject indexing has been a longstanding goal of digital curators to facilitate effective retrieval access to large collections of both online and offline information resources. Controlled vocabularies are often used for this purpose, as they standardise annotation practices and help users to navigate online resources through following interlinked topical concepts. However, to this date, the assignment of suitable text annotations from a controlled vocabulary is still largely done manually, or at most (semi-)automatically, even though effective machine learning tools are already in place. This is because existing procedures require a sufficient amount of training data and they have to be adapted to each vocabulary, language and application domain anew. In this paper, we argue that there is a third solution to subject indexing which harnesses cross-domain knowledge graphs. Our KINDEX approach fuses distributed knowledge graph information from different sources. Experimental evaluation shows that the approach achieves good accuracy scores by exploiting correspondence links of publicly available knowledge graphs" 
+  authors: "<a href='http://aksw.org/LisaWenige.html'>Lisa Wenige</a>, <a href='https://sda.tech/people/claus-stadler/'>Claus Stadler</a>, <a href='https://sda.tech/people/simon-bin/'>Simon Bin</a>, <a href=https://sda.tech/people/lorenz-buhmann/'>Lorenz Bühmann</a>, <a href='http://aksw.org/KurtJunghanns.html'>Kurt Junghanns</a>, and <a href='http://aksw.org/MichaelMartin.html'>Michael Martin</a>."
   subtype: presentation
+  preprint: /assets/accepted-papers/LASCAR20_paper_2.pdf
 -
   id: 005
-  title: "Paper session"
-  description: "TBA" 
-  authors: ""
+  title: "Ice Monitoring With ExtremeEarth"
+  description: "Monitoring the trajectories of icebergs is a crucial task for the safety of ship traffic in the arctic circle. In this work, we present a system that addresses this problem by combining Earth observation techniques with large scale RDF analytics. To the best of our knowledge, this is the first Semantic Web application in this field." 
+  authors: "<a href='https://github.com/GiorgosMandi'>George Mandilaras</a>, <a href='http://cgi.di.uoa.gr/~koubarak/'>Manolis Koubarakis</a>."
   subtype: presentation
+  preprint: /assets/accepted-papers/LASCAR20_paper_3.pdf
 
 -
   id: 006
-  title: "Wrap-up + Panel discussion"
-  description: "Wrap-up + Panel discussion (Organisers + Invited members)"
+  title: "Wrap-up + Open Discussion"
+  description: "Wrap-up + Open Discussion (Organisers + Invited members)"
   service: true

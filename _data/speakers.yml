@@ -1,12 +1,12 @@
 - 
   id: 1
-  name: "TBA"
-  surname: ""
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: 
+  name: "Vasilis"
+  surname: "Efthymiou"
+  company: "IBM Research - Almaden"
+  title: "Dr. "
+  bio: "Vasilis Efthymiou is a Postdoctoral Researcher at IBM Research - Almaden, working in the areas of data integration, knowledge management, and query answering. Before joining IBM, he was a collaborating researcher at the Information Systems Laboratory of ICS-FORTH, Greece. He received his Ph.D. from the Computer Science Department of University of Crete, Greece, for research on entity resolution. After his internship at IBM T.J. Watson Research Center, NY, on matching Web tables to Knowledge Graphs, he has joined forces with researchers from IBM Research, Oxford University, and City, University of London to co-organize the SemTab challenges: an effort to benchmark systems dealing with the tabular data to KG matching problem, so as to facilitate their comparison on the same basis and the reproducibility of the results. Finally, he has given tutorials in top-tier data management conferences (WWW, ICDE, CIKM, ESWC), and he has co-authored the book 'Entity Resolution in the Web of Data'."
+  thumbnailUrl: https://sites.google.com/site/vefthym/_/rsrc/1534710964083/home/IMG_8952%28small%29.jpg
   keynote: true
   social: 
-    - {name: "twitter", link: ""}
-    - {name: "site", link: ""}
+    - {name: "twitter", link: "https://twitter.com/vefthym"}
+    - {name: "site", link: "https://sites.google.com/site/vefthym/"}
