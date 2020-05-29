@@ -35,7 +35,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "ESWC_2020_location.jpg"
 heroTitle: "LASCAR <typeout> 2020"
-eventDate: "May 31, 2020 - Jun 4, 2020 Heraklion, Crete, Greece"
+eventDate: "May 31, 2020 - Jun 4, 2020 Online"
 typeoutTextValues: '"", "2nd Workshop on Large Scale RDF Analytics", "at ESWC"'
 typeoutFallback: "at ESWC"
 heroButtons:
