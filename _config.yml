@@ -35,7 +35,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "ESWC_2020_location.jpg"
 heroTitle: "LASCAR-20 — Workshop on Large Scale Knowledge Graph Analytics"
-eventDate: "May 31, 2020<br><br>This archive preserves the workshop information and accepted papers of LASCAR-20. The original workshop website was hosted at <code>lascar.sda.tech</code>.<br><br>Due to the COVID-19 pandemic, the accepted papers were not published in CEUR Workshop Proceedings as originally planned. They are made available here instead: <a href='accepted-papers/'>Accepted Papers</a>."
+eventDate: "May 31, 2020<br><br>This archive preserves the workshop information and accepted papers of LASCAR-20. The original workshop website was hosted at <code>lascar.sda.tech</code>.<br><br>Due to circumstances surrounding the COVID-19 pandemic, the planned publication of the proceedings did not take place. They are made available here instead: <a href='accepted-papers/'>Accepted Papers</a>."
 typeoutTextValues: '""'
 typeoutFallback: ""
 heroButtons:
